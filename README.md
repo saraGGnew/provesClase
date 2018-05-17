@@ -1,2 +1,4 @@
 # provesClase
-clase de ED
+per fer proves de git.
+
+**Hola a tothom!!**
